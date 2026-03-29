@@ -27,11 +27,11 @@
 ---
 
 ## Skills
-- **Frontend**: React / TypeScript / Next.js
-- **Backend**: Node.js / Go
+- **Frontend**: JavaScript / TypeScript / React / Next.js
+- **Backend**: JavaScript / Go / Express / Node.js  
 - **Database**: PostgreSQL / Prisma / Knex
 - **Quant**: Python / Julia / Statistics
-- **Infra**: AWS / Docker / CI/CD
+- **Infra**: AWS / Vercel / Render / Docker / CI/CD
 
 ---
 
