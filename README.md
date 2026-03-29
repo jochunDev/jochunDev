@@ -1,10 +1,13 @@
 # jochun
 
 ## About Me
+
+### Roles
 - Application Engineer
 - System Architect
 - Quant Engineer
 
+### What I Do
 - Building cloud-native systems and simulation-based applications
 - Bridging **mathematical models, business logic, and real-world systems**
 - Interested in Quantitative Finance, Optimization, and Product Development
