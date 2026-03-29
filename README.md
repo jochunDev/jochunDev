@@ -1,7 +1,9 @@
 # jochun
 
 ## About Me
-Application Engineer / System Architect
+- Application Engineer
+- System Architect
+- Quant Engineer
 
 - Building cloud-native systems and simulation-based applications
 - Bridging **mathematical models, business logic, and real-world systems**
