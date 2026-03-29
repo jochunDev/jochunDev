@@ -17,7 +17,7 @@
 ## Projects
 
 ### Quant / Simulation
-- **CrySimJ** – Crypto investment simulator  
+- **Crypto Simulator** – Crypto investment simulator  
 - **Portfolio Optimizer (Go + Julia)** – Mean-variance optimization engine
 
 ### Consumer Apps
