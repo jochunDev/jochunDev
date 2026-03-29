@@ -1,16 +1,35 @@
-## Hi there 👋
+# jochun
 
-<!--
-**jochunDev/jochunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Application Engineer / System Architect
 
-Here are some ideas to get you started:
+- Building cloud-native systems and simulation-based applications
+- Bridging **mathematical models, business logic, and real-world systems**
+- Interested in Quantitative Finance, Optimization, and Product Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### Quant / Simulation
+- **CrySimJ** – Crypto investment simulator  
+- **Portfolio Optimizer (Go + Julia)** – Mean-variance optimization engine
+
+### Consumer Apps
+- **Walking Bingo** – Gamified walking app  
+- **Training × Train** – Fitness & habit tracking app
+
+---
+
+## Skills
+- **Frontend**: React / TypeScript / Next.js
+- **Backend**: Node.js / Go
+- **Database**: PostgreSQL / Prisma / Knex
+- **Quant**: Python / Julia / Statistics
+- **Infra**: AWS / Docker / CI/CD
+
+---
+
+## Vision
+Building **quantitative systems & simulation products**  
+for finance, optimization, and real-world decision making
