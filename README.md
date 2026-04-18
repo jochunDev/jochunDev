@@ -21,8 +21,9 @@
 - **Portfolio Optimizer (Go + Julia)** – Mean-variance optimization engine
 
 ### Consumer Apps
+- ** Simple SNS ** - simple sns service
 - **Walking Bingo** – Gamified walking app  
-- **Training × Train** – Fitness & habit tracking app
+- **Training Train** – Fitness & habit tracking app
 
 ---
 
