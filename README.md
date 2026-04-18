@@ -14,6 +14,13 @@
 
 ---
 
+## Project Naming Convention
+- `qs-` : Quant / Simulation
+- `ca-` : Consumer Applications
+- Format: `<category>-<product>`
+
+---
+
 ## Projects
 
 ### Quant / Simulation
@@ -33,6 +40,15 @@
 - **Database**: PostgreSQL / Prisma / Knex
 - **Quant**: Python / Julia / Statistics
 - **Infra**: AWS / Vercel / Render / Docker / CI/CD
+
+---
+
+## Certifications
+- FE / AP (Fundamental & Applied Information Technology Engineer)
+- LPIC-1 (101 / 102)
+- Certified Scrum Master
+- Statistics Level 2
+- TOEIC 815
 
 ---
 
