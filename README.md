@@ -15,8 +15,10 @@
 ---
 
 ## Project Naming Convention
-- `qs-` : Quant / Simulation
-- `ca-` : Consumer Applications
+- `qs-` : Quant / Simulation (e.g. qs-crypto-simulator)
+- `en-` : Energy / Optimization (e.g. en-power-forecast)
+- `ed-` : Education / Learning (e.g. ed-statistics-app)
+- `ca-` : Consumer Applications (e.g. ca-walking-bingo)
 - Format: `<category>-<product>`
 
 ---
