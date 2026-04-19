@@ -14,15 +14,6 @@
 
 ---
 
-## Project Naming Convention
-- `qs-` : Quant / Simulation (e.g. qs-crypto-simulator)
-- `en-` : Energy / Optimization (e.g. en-power-forecast)
-- `ed-` : Education / Learning (e.g. ed-statistics-app)
-- `ca-` : Consumer Applications (e.g. ca-walking-bingo)
-- Format: `<category>-<product>`
-
----
-
 ## Projects
 
 ### Quant / Simulation
@@ -33,6 +24,19 @@
 - **Simple SNS** - simple sns service
 - **Walking Bingo** – Gamified walking app  
 - **Training Train** – Fitness & habit tracking app
+
+---
+
+## Project Naming Convention
+Prefix-based repository structure:
+
+- `qs-` : Quant / Simulation (e.g. qs-crypto-simulator)
+- `en-` : Energy / Optimization (e.g. en-power-forecast)
+- `ed-` : Education / Learning (e.g. ed-statistics-app)
+- `ca-` : Consumer Applications (e.g. ca-walking-bingo)
+- `core-` : Engineering Foundations / Architecture / Workflow (e.g. core-github-workflow)
+
+Format: `<category>-<product>`
 
 ---
 
