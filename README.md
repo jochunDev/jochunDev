@@ -53,7 +53,8 @@ Format: `<category>-<product>`
 - FE / AP (Fundamental & Applied Information Technology Engineer)
 - LPIC-1 (101 / 102)
 - Certified Scrum Master
-- Statistics Level 2
+- Japan Statistical Society Certificate 2nd Performance Award
+- Japan Statistical Society Certificate Pre 1st Performance Award
 - TOEIC 815
 
 ---
