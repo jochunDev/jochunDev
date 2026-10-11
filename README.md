@@ -34,6 +34,8 @@ Prefix-based repository structure:
 - `en-` : Energy / Optimization (e.g. en-power-forecast)
 - `ed-` : Education / Learning (e.g. ed-statistics-app)
 - `ca-` : Consumer Applications (e.g. ca-walking-bingo)
+- `lm-` : Learning Materials / Study Archives (e.g. lm-frm-2026)
+- `kb-` : Knowledge Base / Personal Research Notes (e.g. kb-financial-market, kb-power-market)
 - `core-` : Engineering Foundations / Architecture / Workflow (e.g. core-github-workflow)
 
 Format: `<category>-<product>`
